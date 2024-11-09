@@ -1,0 +1,12 @@
+1.Handle cart icon  => done
+2.Handle ItemDescription.jsx 
+3.Handle DeliveryPage => Item is empty make empty.Else show the item. =>done
+4.HandleDeliveryPage => Handle + and - and Remove and Buy this now button. => done
+5.Handle ItemDewscription.jsx => Buy this now => done
+6.Handle Order pages.
+5.When the product is delivered mark it in orders.
+6.Verify localStorage.
+7.Check Home page.
+8.Handle forgot password.
+9.Verify the email by sending otp.
+10.Complete check

@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.modal-content {
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+@keyframes animatetop {
+    from {
+        right: -300px;
+        opacity:0
+    }
+
+    to {
+        right: 0;
+        opacity: 1
+    }
+}

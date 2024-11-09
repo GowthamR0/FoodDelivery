@@ -1,0 +1,34 @@
+export const Images = [
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/dish_images/d19a31d42d5913ff129cafd7cec772f81639737697.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Briyani"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Pizza"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Chicken"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/dish_images/1437bc204cb5c892cb22d78b4347f4651634827140.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Chaat"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/dish_images/ccb7dc2ba2b054419f805da7f05704471634886169.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Burger"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/o2_assets/2f34540e0b12058f5f8b9390c3a3fb4a1648972281.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Shawarma"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/dish_images/d5ab931c8c239271de45e1c159af94311634805744.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Cake"
+    },
+    {
+        ImageUrl:"https://b.zmtcdn.com/data/o2_assets/e444ade83eb22360b6ca79e6e777955f1632716661.png?fit=around|120:120&crop=120:120;*,*",
+        Title:"Fried Rice"
+    }
+]
